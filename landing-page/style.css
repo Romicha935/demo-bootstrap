@@ -1,0 +1,38 @@
+body{
+    background-color: #003366;
+    color: white;
+    font-family: sans-serif;
+}
+.navbar{
+    background-color: transparent;
+}
+
+.hero{
+    text-align: center;
+    padding: 10px 20px;
+}
+.btn-custom{
+    background-color: #00bfff;
+    color: white;
+    border-radius: 10px;
+    padding: 10px 25px;
+}
+.btn-custom:hover {
+    background: #009cad;
+}
+
+.custom-img{
+    width: 600px;
+    height: 300px;
+    object-position: cover;
+}
+.card{
+    background-color: #012a52;
+    border: none;
+    color: #fff;
+    width: 300px;
+}
+.card img{
+    height: 100px;
+    
+}
